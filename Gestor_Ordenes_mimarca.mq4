@@ -758,6 +758,7 @@ void UpdatePanelInfo()
 }
 
 //+------------------------------------------------------------------+
+
 void DeleteAllObjects()
 {
     ObjectDelete(0, buttonCloseAll);
