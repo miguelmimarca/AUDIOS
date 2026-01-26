@@ -771,3 +771,4 @@ void DeleteAllObjects()
         ObjectDelete(0, headerName);
     }
 }
+
